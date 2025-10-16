@@ -21,7 +21,9 @@
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,
+      "hotReloadEnabled": false,
       "launchBrowser": true,
+     // "applicationUrl": "https://localhost:5001",
       "applicationUrl": "http://appa.myapps.test:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
